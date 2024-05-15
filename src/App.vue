@@ -202,10 +202,11 @@ export default {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: flex-start;
 }
 
 .battle-area {
-  height: 26rem;
+  height: 30rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -215,6 +216,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .move {
@@ -309,5 +311,11 @@ button {
   font-size: 1.8rem;
   padding: 1.4rem;
   margin: 3rem;
+}
+
+@media (max-width: 720px) {
+  .battle-area {
+    height: 20rem;
+  }
 }
 </style>

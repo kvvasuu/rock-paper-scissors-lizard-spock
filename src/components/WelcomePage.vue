@@ -62,6 +62,7 @@ export default {
   font-size: 1.6rem;
   color: #26d3c7;
   filter: drop-shadow(1px 1px 3px var(--black));
+  margin: 1rem;
 }
 
 .rounds-number {
