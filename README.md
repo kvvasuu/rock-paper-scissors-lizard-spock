@@ -1,7 +1,39 @@
-# Vue 3 + Vite
+# Rock Paper Scissors Lizard Spock
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+## General info
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+
+## Technologies:
+
+- Vue
+- Vite
+- Font Awesome
+
+## Setup
+
+# install dependencies
+
+npm install
+
+# serve with hot reload at localhost:8080
+
+npm run dev
+
+# build for production with minification
+
+npm run build
+
+# build for production and view the bundle analyzer report
+
+npm run build --report
+
+# run unit tests
+
+npm run unit
+
+# run all tests
+
+npm test
+
+```
