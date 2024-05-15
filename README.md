@@ -1,8 +1,10 @@
 # Rock Paper Scissors Lizard Spock
 
+![App demo](https://raw.githubusercontent.com/kvvasuu/rock-paper-scissors-lizard-spock/main/public/demo.png "App demo")
 
 ## General info
 
+Rock Paper Scissors Lizard Spock game made using Vue.
 
 ## Technologies:
 
