@@ -154,6 +154,7 @@ button:active {
   touch-action: manipulation;
   border: 0;
   margin: 0;
+  overflow: visible;
 }
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
