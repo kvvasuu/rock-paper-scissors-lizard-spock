@@ -160,4 +160,10 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+@media (max-width: 460px) {
+  .input-1 {
+    width: 2.4rem;
+  }
+}
 </style>
