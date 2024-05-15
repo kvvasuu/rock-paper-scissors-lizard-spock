@@ -145,7 +145,7 @@ button:active {
   box-shadow: #26d3c7 5px 5px 20px -10px;
   box-sizing: border-box;
   color: #212121;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   text-align: center;
   height: 2rem;
@@ -159,11 +159,5 @@ input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
-}
-
-@media (max-width: 460px) {
-  .input-1 {
-    width: 2.4rem;
-  }
 }
 </style>
