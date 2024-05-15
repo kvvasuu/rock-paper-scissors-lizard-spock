@@ -62,7 +62,7 @@ export default {
         playerScore: 0,
         computerScore: 0,
         currentRound: 1,
-        numberOfRounds: 1,
+        numberOfRounds: 3,
       },
       lastRoundResult: "",
       winner: "",

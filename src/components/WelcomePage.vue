@@ -33,7 +33,7 @@ export default {
   emits: ["play-game"],
   data() {
     return {
-      numberOfRounds: 1,
+      numberOfRounds: 3,
     };
   },
   methods: {
