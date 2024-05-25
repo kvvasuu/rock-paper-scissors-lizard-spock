@@ -4,7 +4,11 @@
 
 ## General info
 
-Rock Paper Scissors Lizard Spock game made using Vue.
+Welcome to the ultimate challenge of wit and strategy with Rock, Paper, Scissors, Lizard, Spock!
+This exciting twist on the classic game brings even more fun and complexity to your decision-making battles.
+Test your skills and become the ultimate champion.
+
+The application has been deployed on Netlify - [https://rpslk.netlify.app/](https://rpslk.netlify.app/)
 
 ## Technologies:
 
@@ -14,6 +18,7 @@ Rock Paper Scissors Lizard Spock game made using Vue.
 
 ## Setup
 
+```
 # install dependencies
 
 npm install
