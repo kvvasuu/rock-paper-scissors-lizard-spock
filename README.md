@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock
 
-![App demo](https://raw.githubusercontent.com/kvvasuu/rock-paper-scissors-lizard-spock/main/public/demo.png "App demo")
+![App demo](https://raw.githubusercontent.com/kvvasuu/rock-paper-scissors-lizard-spock/main/public/demo.gif "App demo")
 
 ## General info
 
